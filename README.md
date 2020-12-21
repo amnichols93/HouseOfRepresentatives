@@ -13,18 +13,18 @@ Script was written in Python using Jupyter Notebook and visualizations were made
 # Results
 ## Process for Redistributing the Representatives
 
-The system I propose is based on the principle that the state with the lowest population is granted one (1) House Representative, and maintains that: 
+The system I propose is based on the principle that the state with the lowest population is granted one (1) House representative, and maintains that: 
 
-- Each stat is granted two (2) Senators
-- The number of electors is equal to the number of Senators and House Representatives for each state
-- Washington D.C. remains a district, rather than a state, which results in zero (0) House Representatives, but they are granted the same number of electors as the least populous state, which will always be three (3) with this system
+- Each state is granted two (2) senators
+- The number of electors is equal to the number of senators and House representatives for each state
+- Washington D.C. remains a district, rather than a state, which results in zero (0) House representatives, but they are granted the same number of electors as the least populous state, which will always be three (3) with this system
 
 
-My proposed system is premised on the simple logic that a state's number of House Representatives should be equal to that state's population divided by the least populous state's population. In other words, if a state's population is five (5) times greater than Wyoming's, that state should have five (5) House Representatives.
+My proposed system is premised on the simple logic that a state's number of House representatives should be equal to that state's population divided by the least populous state's population. In other words, if a state's population is five (5) times greater than Wyoming's, that state should have five (5) House representatives.
 
 ## Representatives by State (Actual vs. Proposed)
 
-Below are bar charts plotting the number of House Representatives for each state in the current and proposed systems. The actual values (current system) are indicated in light gray. In the "proposed" chart, a state's bar color is red if their number increased, dark gray if their number decreased, and light gray if their number is the same.
+Below are bar charts plotting the number of House representatives for each state in the current and proposed systems. The actual values (current system) are indicated in light gray. In the "proposed" chart, a state's bar color is red if their number increased, dark gray if their number decreased, and light gray if their number is the same.
 
 ### 1960
 ![Actual1960](figs/RepsPerStatebyYear/1960reps_barhchart.png)
