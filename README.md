@@ -15,9 +15,9 @@ Script was written in Python using Jupyter Notebook and visualizations were made
 
 The system I propose is based on the principle that the state with the lowest population is granted one (1) House Representative, and maintains that: 
 
--Each stat is granted two (2) Senators
--The number of electors is equal to the number of Senators and House Representatives for each state
--Washington D.C. remains a district, rather than a state, which results in zero (0) House Representatives, but they are granted the same number of electors as the least populous state, which will always be three (3) with this system
+- Each stat is granted two (2) Senators
+- The number of electors is equal to the number of Senators and House Representatives for each state
+- Washington D.C. remains a district, rather than a state, which results in zero (0) House Representatives, but they are granted the same number of electors as the least populous state, which will always be three (3) with this system
 
 
 My proposed system is premised on the simple logic that a state's number of House Representatives should be equal to that state's population divided by the least populous state's population. In other words, if a state's population is five (5) times greater than Wyoming's, that state should have five (5) House Representatives.
