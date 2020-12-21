@@ -55,13 +55,9 @@ The figure that warrants a House Representative in this system is the number of 
 ![StatePercWY](figs/PercentOfStatePop/WyomingPercentStatePop.png)
 ![StatePercCA](figs/PercentOfStatePop/CaliforniaPercentStatePop.png)
 
-
-
 On the surface, this can be misconstrued as disproportionate representation. The true measure of disproportionate representation is in how many actual constituents each Representative represents. Below is a figure showing the minimum (solid line) and maximum (dashed line) number of constituents represented in each year; the values for the current system of shown in BLACK, while the proposed system is shown in RED. You will see that the minimum and maximum number of constituents are consistently lower in the proposed system and, in 2019, the proposed maximum number of constituents is nearly equal to the current minimum. In other words, the proposed system would reduce the ratio to such an extent that the "worst" representation in the proposed system would be better than the "best" representation in the current system.
 
-
 ![NatlAverages1](figs/NatlAverages/popperrep_propandcurrent.png)
-
 
 Another way to evaluate these discrepencies is to measure the difference between the most and least populous constituencies in each system. The ideal difference between the most and least populous constituencies is zero (0). The below graph indicates that the proposed system would reduce the current gap by about one-third.
 
@@ -72,12 +68,16 @@ Another way to evaluate these discrepencies is to measure the difference between
 
 For most elections between 1960 and 2020, the proposed system would have little-to-no effect. The victories in the Electoral College have typically been by such a margin that this redistribution would not change the results. There are, however, two elections that would have been notably affected.
 
+
+
 ### 1960: Kennedy v. Nixon
 
 ![1960Elec](figs/EC/1960ActualResults.png)
 ![1960Elec2](figs/EC/1960ProposedResults.png)
 
 Nixon's amount nearly doubles in the proposed system, and Virginia governor Harry Byrd (D) splits Kennedy's lead enough to change the future President of the United States of America. To remove Kennedy's presidency from our history is no insignificant act. From the Civil Rights Act, to the Bay of Pigs, to JFK and RFK's assassinations, to Lyndon Johnson's succession and response to Vietnam, to Watergate and our nation's only presdiential resignation, and to the Kennedy family legacy that has led to several generations of politicians including today's Robert Kennedy III (D-MA) in the House, the legacy of the Kennedy-Johnson-Nixon years cannot be understated. There is no way to discern what the 1960s would have looked like with Nixon defeating Kennedy, but it can certainly be said that nothing would have been the same.
+
+
 
 
 ### 2000: Bush v. Gore
