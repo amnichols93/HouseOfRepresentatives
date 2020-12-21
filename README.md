@@ -89,4 +89,4 @@ The 2000 election is one of the closest, and most contested, elections in our na
 
 # Conclusion
 
-I firmly believe that the current distribution of House Representatives and, by extension, the Electoral College is more disproportionate than necessary. I also firmly believe that the math I have suggested in this proposal for redistributing representatives is noncontroversial. The implications of that math will be controversial depending on which political party stands to lose its prowess, but if the goal is for a more perfect union, then surely we can take a party loss for a national gain. 
+I firmly believe that the current distribution of House Representatives and, by extension, the Electoral College is more disproportionate than necessary. I also firmly believe that the math I have suggested in this proposal for redistributing representatives is noncontroversial. The implications of that math will be controversial depending on which political party stands to lose its numbers in any given election year, but if the goal is for a more perfect union, then surely we can take a party loss for a national gain. 
