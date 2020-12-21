@@ -13,7 +13,7 @@ Script was written in Python using Jupyter Notebook and visualizations were made
 # Results
 ## Process for Redistributing the Representatives
 
-The system I proposed is based on the principle that the state with the lowest population is granted one (1) House Representative, and maintains that: 
+The system I propose is based on the principle that the state with the lowest population is granted one (1) House Representative, and maintains that: 
 
 -Each stat is granted two (2) Senators
 -The number of electors is equal to the number of Senators and House Representatives for each state
